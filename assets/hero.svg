@@ -1,6 +1,6 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="1200" height="360" viewBox="0 0 1200 360" role="img" aria-labelledby="title desc">
   <title id="title">shirozato profile banner</title>
-  <desc id="desc">A futuristic system dashboard introducing shirozato, a backend and product developer.</desc>
+  <desc id="desc">A futuristic system dashboard introducing shirozato, a backend developer.</desc>
   <defs>
     <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
       <stop offset="0" stop-color="#070b16"/>
@@ -56,11 +56,9 @@
       </g>
       <text class="sans" x="0" y="86" fill="#f8fafc" font-size="64" font-weight="750" letter-spacing="-2">shirozato</text>
       <rect x="0" y="108" width="490" height="3" rx="2" fill="url(#accent)"/>
-      <text class="mono" x="0" y="150" fill="#7dd3fc" font-size="18">backend systems · async flows · useful interfaces</text>
-      <text class="mono" x="0" y="196" fill="#64748b" font-size="14">PYTHON / FASTAPI / POSTGRESQL / REACT / TYPESCRIPT</text>
-      <g transform="translate(0 224)" class="mono" font-size="12">
+      <g transform="translate(0 164)" class="mono" font-size="12">
         <rect width="145" height="34" rx="17" fill="#0f172a" stroke="#7dd3fc" stroke-opacity=".38"/>
-        <text x="18" y="22" fill="#cbd5e1">$ build --useful</text>
+        <text x="18" y="22" fill="#cbd5e1">$ ship --reliable</text>
         <path d="M165 17h74" stroke="#475569" stroke-dasharray="2 5"/>
         <circle cx="255" cy="17" r="4" fill="#a78bfa" class="pulse"/>
       </g>
@@ -68,4 +66,3 @@
   </g>
   <rect x="1" y="1" width="1198" height="358" rx="24" fill="none" stroke="url(#accent)" stroke-opacity=".38" stroke-width="2"/>
 </svg>
-
