@@ -16,7 +16,7 @@
 
 <div align="center">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-repo.vercel.app/?username=shirozato&theme=tokyonight&no-frame=true&no-bg=true&column=-1&margin-w=8" width="100%" alt="GitHub profile trophies" />
+    <img src="https://github-profile-repo.vercel.app/?username=shirozato&theme=tokyonight&no-frame=true&no-bg=true&column=-1&margin-w=8&title=-Issues,-PullRequest,-Reviews" width="100%" alt="GitHub profile trophies" />
   </a>
 </div>
 
