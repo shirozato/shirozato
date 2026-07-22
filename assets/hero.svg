@@ -50,10 +50,6 @@
     </g>
 
     <g transform="translate(64 64)">
-      <g class="mono" font-size="13">
-        <circle cx="6" cy="-1" r="5" fill="#34d399" class="pulse"/>
-        <text x="20" y="4" fill="#94a3b8" letter-spacing="2">SYSTEM ONLINE / KRASNOYARSK</text>
-      </g>
       <text class="sans" x="0" y="86" fill="#f8fafc" font-size="64" font-weight="750" letter-spacing="-2">shirozato</text>
       <rect x="0" y="108" width="490" height="3" rx="2" fill="url(#accent)"/>
       <g transform="translate(0 164)" class="mono" font-size="12">
