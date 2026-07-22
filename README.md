@@ -4,7 +4,6 @@
 
 <br />
 
-## `backend stack / tools`
 
 <div align="center">
   <img src="https://skillicons.dev/icons?i=python,fastapi,postgres,redis,rabbitmq,docker,nginx,postman,git,github,linux,bash&perline=12" alt="Python, FastAPI, PostgreSQL, Redis, RabbitMQ, Docker, nginx, Postman, Git, GitHub, Linux and Bash" />
@@ -12,7 +11,6 @@
 
 <br />
 
-## `github signal`
 
 <div align="center">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
