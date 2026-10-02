@@ -29,5 +29,5 @@
 <br />
 
 <div align="center">
-  <img src="./assets/footer.svg" width="100%" alt="keep shipping useful things" />
+  <img src="./assets/footer.svg" width="100%" alt="Build what outlasts the noise." />
 </div>
