@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="./assets/hero.svg" width="100%" alt="shirozato — backend systems and distributed workflows" />
+  <img src="./assets/hero.svg?v=79d97b3" width="100%" alt="shirozato — backend systems and distributed workflows" />
 </div>
 
 <br />
@@ -29,5 +29,5 @@
 <br />
 
 <div align="center">
-  <img src="./assets/footer.svg" width="100%" alt="Build what outlasts the noise." />
+  <img src="./assets/footer.svg?v=33c861b" width="100%" alt="Build what outlasts the noise." />
 </div>
